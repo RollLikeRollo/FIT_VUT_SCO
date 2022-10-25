@@ -1,3 +1,7 @@
-[submodule "exploit-CVE-2014-6271"]
-	path = exploit-CVE-2014-6271
+
+[submodule "shellshock/exploit-CVE-2014-6271"]
+	path = shellshock/exploit-CVE-2014-6271
 	url = https://github.com/opsxcq/exploit-CVE-2014-6271
+[submodule "shellshock/ShellShockHunter"]
+	path = shellshock/ShellShockHunter
+	url = git@github.com:MrCl0wnLab/ShellShockHunter.git
